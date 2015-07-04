@@ -1,0 +1,1 @@
+5 personE C:/Users/Paradox/Documents/NetBeansProjects/Servlet_jCV1/Image/train/5-face_0.pgm
